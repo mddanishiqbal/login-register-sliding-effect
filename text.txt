@@ -1,0 +1,2 @@
+In this project we'll learn how to create a Responsive Sliding Login & Register 
+Form using HTML, CSS and JavaScript.
